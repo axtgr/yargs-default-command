@@ -1,0 +1,19 @@
+{
+  "name": "yargs-default-command",
+  "version": "1.0.0",
+  "description": "Allows adding a default command that will match if called without a command or no other command matches",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-shnayder/yargs-default-command.git"
+  },
+  "author": "Alex Shnayder <alex@shnayder.pro>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alex-shnayder/yargs-default-command/issues"
+  },
+  "homepage": "https://github.com/alex-shnayder/yargs-default-command#readme",
+  "peerDependencies": {
+    "yargs": "^3.29.0"
+  }
+}
