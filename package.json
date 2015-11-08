@@ -1,6 +1,6 @@
 {
   "name": "yargs-default-command",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Allows adding a default command that will match if called without a command or no other command matches",
   "main": "index.js",
   "repository": {
