@@ -41,7 +41,8 @@ module.exports = function(yargs) {
       result = yargs.argv;
 
       if (!commandTriggered) {
-        return commandHandlers['*'](yargsChild.reset());
+        commandHandlers['*'](yargsChild.reset());
+        return result;
       }
 
       return result;
