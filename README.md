@@ -1,3 +1,9 @@
+## DEPRECATED
+
+Since v7.0.0, yargs supports default commands natively.
+
+----------
+
 # yargs-default-command
 
 A plugin for [yargs](https://github.com/bcoe/yargs) which allows adding a default command that will match if called without a command or no other command matches.
